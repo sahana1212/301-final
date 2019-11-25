@@ -1,5 +1,5 @@
 variable "key_name" {
-  default = "amit-personal-aws"
+  default = "master-key"
 }
 
 variable "pvt_key" {
@@ -11,5 +11,5 @@ variable "us-east-zones" {
 }
 
 variable "sg-id" {
-  default = "sg-0a6e342b795ebb4b8"
+  default = "sg-0f6df36a07c37a0bc"
 }
